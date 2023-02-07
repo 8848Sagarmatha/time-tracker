@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Night Students!!!
+Make Hay when the sun shines!
